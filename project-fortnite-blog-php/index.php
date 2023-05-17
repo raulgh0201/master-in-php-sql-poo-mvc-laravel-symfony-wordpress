@@ -20,7 +20,7 @@
         <div id="main">
             <h1>Últimas entradas</h1>
 
-            <article class='entry'>
+            <article class= 'entry'>
                 <a href="">
                     <h2>Como construir mas rápido en fortnite</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione repudiandae nisi obcaecati. Architecto aliquam facilis animi maiores veniam aspernatur ea distinctio officiis consectetur dolorum delectus sequi ad nostrum, sed facere!</p>

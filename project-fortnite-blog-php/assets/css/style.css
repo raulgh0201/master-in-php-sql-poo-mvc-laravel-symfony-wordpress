@@ -149,6 +149,12 @@ input[type='password']{
     margin-bottom: 10px;
 }
 
+.alert-error{
+    margin-bottom: 20px;
+    color: red;
+    font-weight: bold;
+}
+
 input[type='text'],
 input[type='email'],
 input[type='password']{
